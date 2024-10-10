@@ -1,0 +1,48 @@
+.span-contact {
+    font-size: 20px;
+    color: blueviolet;
+}
+
+.contact-wrapper {
+    background-color: rgb(247, 146, 203);
+    width: 448px;
+    /* margin-left: auto;
+    margin-right: auto; */
+    margin: 0 auto;
+    text-align: center;
+    
+}
+.title {
+    /* border-width: 2px;
+    border-style: solid;
+    border-color: red; */
+    border: 2px solid red;
+    /* margin-top: 35px;
+    margin-left: 50px;
+    margin-bottom: 40px;
+    margin-right: 35px; */
+    margin: 35px 50px;
+}
+.text-block {
+    width: 760px;
+    background-color: aqua;
+    margin: 0 auto;
+    text-align: center;
+}
+.container {
+    width: 1336px;
+    border: 2px solid black;
+    margin: 0 auto;
+}
+.BLOCK {
+    width: 310px;
+    height: 430px;
+    border: 2px dotted blue;
+}
+.row1 {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    height: 908px;
+    align-content: space-between;
+}
